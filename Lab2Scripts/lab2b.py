@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python33
 
 # Prompt the user for their name and age
 name = input("Name: ")

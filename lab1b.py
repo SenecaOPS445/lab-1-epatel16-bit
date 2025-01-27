@@ -2,5 +2,3 @@
 name = "Isaac"
 print(f"How old are you {name}?")
 
-
-
